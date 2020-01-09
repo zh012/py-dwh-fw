@@ -1,0 +1,8 @@
+[development]
+DMW_ENV = "dev"
+
+[staging]
+DMW_ENV = "stg"
+
+[production]
+DMW_ENV = "prod"
